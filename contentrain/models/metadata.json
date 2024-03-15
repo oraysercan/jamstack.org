@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "name": "deneme",
+    "modelId": "deneme",
+    "localization": false,
+    "type": "MD",
+    "createdBy": "user",
+    "isServerless": false
+  }
+]
