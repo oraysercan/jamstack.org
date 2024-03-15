@@ -1,6 +1,6 @@
 [
   {
-    "name": "Hero",
+    "name": "HeroTitle",
     "modelId": "hero",
     "localization": false,
     "type": "JSON",
