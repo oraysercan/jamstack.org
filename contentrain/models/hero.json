@@ -76,5 +76,14 @@
     "options": {},
     "validations": {},
     "fieldType": "string"
+  },
+  {
+    "name": "HeroImage",
+    "fieldId": "heroimage",
+    "modelId": "hero",
+    "componentId": "media",
+    "options": {},
+    "validations": {},
+    "fieldType": "media"
   }
 ]
