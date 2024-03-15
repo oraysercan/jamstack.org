@@ -58,5 +58,14 @@
     "system": true,
     "defaultField": false,
     "modelId": "hero"
+  },
+  {
+    "name": "Title",
+    "fieldId": "title",
+    "modelId": "hero",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
   }
 ]
