@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "name": "Hero",
+    "modelId": "hero",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "user",
+    "isServerless": false
+  }
+]
