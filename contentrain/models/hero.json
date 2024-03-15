@@ -60,7 +60,7 @@
     "modelId": "hero"
   },
   {
-    "name": "Title",
+    "name": "HeroTitle",
     "fieldId": "title",
     "modelId": "hero",
     "componentId": "single-line-text",
